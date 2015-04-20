@@ -1,0 +1,180 @@
+{"frames": [
+
+{
+	"filename": "bubble_0.png",
+	"frame": {"x":2,"y":2,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_1.png",
+	"frame": {"x":55,"y":2,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_10.png",
+	"frame": {"x":2,"y":48,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_11.png",
+	"frame": {"x":55,"y":48,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_12.png",
+	"frame": {"x":2,"y":94,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_13.png",
+	"frame": {"x":55,"y":94,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_14.png",
+	"frame": {"x":2,"y":140,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_15.png",
+	"frame": {"x":55,"y":140,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_16.png",
+	"frame": {"x":2,"y":186,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_17.png",
+	"frame": {"x":55,"y":186,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_18.png",
+	"frame": {"x":2,"y":232,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_19.png",
+	"frame": {"x":55,"y":232,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_2.png",
+	"frame": {"x":2,"y":278,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_20.png",
+	"frame": {"x":55,"y":278,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_3.png",
+	"frame": {"x":2,"y":324,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_4.png",
+	"frame": {"x":55,"y":324,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_5.png",
+	"frame": {"x":2,"y":370,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_6.png",
+	"frame": {"x":55,"y":370,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_7.png",
+	"frame": {"x":2,"y":416,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_8.png",
+	"frame": {"x":55,"y":416,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+},
+{
+	"filename": "bubble_9.png",
+	"frame": {"x":2,"y":462,"w":51,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+	"sourceSize": {"w":51,"h":44}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "number_bubbles.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0ffafaa60684f520bd3eaea134e551db:1/1$"
+}
+}

@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "buttonOut.png",
+	"frame": {"x":2,"y":2,"w":50,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":44},
+	"sourceSize": {"w":50,"h":44}
+},
+{
+	"filename": "buttonOver.png",
+	"frame": {"x":2,"y":48,"w":50,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":44},
+	"sourceSize": {"w":50,"h":44}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "play_button.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:30e348f4ec7f96e245e84fefe23021e1:1/1$"
+}
+}
